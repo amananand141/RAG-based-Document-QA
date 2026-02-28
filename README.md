@@ -1,1 +1,0 @@
-# RAG-based-Document-QA
