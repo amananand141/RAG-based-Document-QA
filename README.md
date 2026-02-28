@@ -35,7 +35,7 @@ This project implements a **RAG (Retrieval-Augmented Generation)** system that:
 
 ## 🏗️ Architecture
 
-
+```bash
 PDF Documents
 ↓
 Document Loader
@@ -54,13 +54,7 @@ Answer + Sources + Confidence
 
 
 ---
-
-## 📸 Demo
-
-![Demo](assets/demo.png)
-
----
-
+```
 ## ⚙️ Tech Stack
 
 | Component        | Technology |
@@ -76,7 +70,7 @@ Answer + Sources + Confidence
 
 ## 📁 Project Structure
 
-
+```bash
 rag-document-qa/
 │
 ├── app.py
@@ -94,12 +88,11 @@ rag-document-qa/
 
 
 ---
-
+```
 ## ▶️ How to Run Locally
 
-### 1. Clone the repository
-
 ```bash
+### 1. Clone the repository
 git clone https://github.com/amananand141/RAG-based-Document-QA.git
 cd RAG-based-Document-QA
 
