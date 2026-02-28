@@ -102,15 +102,19 @@ rag-document-qa/
 ```bash
 git clone https://github.com/amananand141/RAG-based-Document-QA.git
 cd RAG-based-Document-QA
+
 2. Create virtual environment
 python -m venv venv
 venv\Scripts\activate   # Windows
+
 3. Install dependencies
 pip install -r requirements.txt
+
 4. Setup environment variables
 
 Create a .env file:
 
 GOOGLE_API_KEY=your_api_key_here
+
 5. Run the app
 streamlit run app.py
