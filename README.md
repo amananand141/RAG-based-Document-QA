@@ -1,13 +1,6 @@
 # 📄 RAG-Based Document QA System (Gemini Powered)
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![AI](https://img.shields.io/badge/LLM-Gemini-orange)
-![Status](https://img.shields.io/badge/Status-Active-success)
-
-> 🔥 Built from scratch using a modular Retrieval-Augmented Generation (RAG) architecture with Google Gemini for accurate document-based question answering.
-
----
+A Retrieval-Augmented Generation (RAG) system that allows users to query PDF documents and get accurate, source-backed answers using Google Gemini.
 
 ## ❓ Problem
 
